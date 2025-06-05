@@ -1,0 +1,113 @@
+body {
+  background-color: silver;
+  font-family: Arial, sans-serif;
+  padding: 20px;
+}
+
+ #title {
+  color: rgb(109, 170, 109);
+  font-size: 2em;
+  text-align: center;
+}
+
+
+ul {
+  list-style-type: square;
+  padding-left: 20px;
+}
+
+li {
+  margin-bottom: 5px;
+  transition: transform 0.2s ease;
+}
+
+li:hover {
+  transform: scale(1.1);
+  color: darkblue;
+}
+
+/* .images {
+  margin-top: 20px;
+  display: flex;
+  gap: 20px;
+}
+
+.images img {
+  width: 150px;
+  border-radius: 10px;
+  transition: transform 0.3s ease;
+}
+
+.images img:hover {
+  transform: scale(1.2);
+  box-shadow: 0 0 10px #000;
+} */
+
+button {
+  margin-top: 20px;
+  padding: 10px 20px;
+  background-color: darkgreen;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: green;
+}
+
+
+/* .veg-image {
+  display: block;
+  width: 350px;
+  height: 450px;
+  margin-top: 5px;
+  gap: 5%;
+  border-radius: 15px;
+}
+
+.fruit-image {
+   display: block;
+  width: 350px;
+  height: 450px;
+  margin-top: 5px;
+  border-radius: 15px;
+  
+
+}  */
+
+
+
+
+
+/* .title{
+    font-size: 55px;
+    h1{
+      text-align: center;
+      padding-top: 5%;
+    }
+    p{
+      text-align: center;
+      margin-top: 7%;
+      font-size: 40px;
+      color: rgb(132, 233, 132);
+
+    }
+}
+
+p{
+  font-size: 33px;
+
+}
+
+h3{
+  font-size: 28px;
+  margin-top: 7%;
+  text-align: center;
+}
+li{
+  font-size: 25px;
+  list-style: none;
+
+} */
