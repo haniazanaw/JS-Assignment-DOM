@@ -26,7 +26,7 @@ li:hover {
   color: darkblue;
 }
 
-/* .images {
+.images {
   margin-top: 20px;
   display: flex;
   gap: 20px;
@@ -41,7 +41,7 @@ li:hover {
 .images img:hover {
   transform: scale(1.2);
   box-shadow: 0 0 10px #000;
-} */
+}
 
 button {
   margin-top: 20px;
@@ -76,38 +76,3 @@ button:hover {
   
 
 }  */
-
-
-
-
-
-/* .title{
-    font-size: 55px;
-    h1{
-      text-align: center;
-      padding-top: 5%;
-    }
-    p{
-      text-align: center;
-      margin-top: 7%;
-      font-size: 40px;
-      color: rgb(132, 233, 132);
-
-    }
-}
-
-p{
-  font-size: 33px;
-
-}
-
-h3{
-  font-size: 28px;
-  margin-top: 7%;
-  text-align: center;
-}
-li{
-  font-size: 25px;
-  list-style: none;
-
-} */
